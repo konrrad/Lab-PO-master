@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0662b154-37d5-43c0-9a1a-278f16af1b97" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Se1tqkm3fsREEQ9ZlnsUKNDvrF" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OptionsParserTest.mixedInput">
+    <configuration name="OptionsParserTest.badInputBegEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="agh.cs.lab4" />
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab4.OptionsParserTest" />
+      <option name="METHOD_NAME" value="badInputBegEnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionsParserTest.fullWordInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="agh.cs.lab4" />
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab4.OptionsParserTest" />
+      <option name="METHOD_NAME" value="fullWordInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionsParserTest.mixedInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="agh.cs.lab4" />
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab4.OptionsParserTest" />
+      <option name="METHOD_NAME" value="mixedInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionsParserTest.oneLetterInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="agh.cs.lab4" />
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab4.OptionsParserTest" />
+      <option name="METHOD_NAME" value="oneLetterInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionsParserTest.totallyWrongInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="agh.cs.lab4" />
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab4.OptionsParserTest" />
+      <option name="METHOD_NAME" value="totallyWrongInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OptionsParserTest.mixedInput" />
+        <item itemvalue="JUnit.OptionsParserTest.totallyWrongInput" />
+        <item itemvalue="JUnit.OptionsParserTest.badInputBegEnd" />
+        <item itemvalue="JUnit.OptionsParserTest.fullWordInput" />
+        <item itemvalue="JUnit.OptionsParserTest.oneLetterInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0662b154-37d5-43c0-9a1a-278f16af1b97" name="Default Changelist" comment="" />
+      <created>1571909464677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571909464677</updated>
+    </task>
+    <servers />
+  </component>
+</project>
